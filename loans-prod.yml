@@ -4,7 +4,7 @@ build:
 loans:
   message: "Hey, welcome to EazyBank loans related production APIs "
   contactDetails:
-    name: "Sudhir - Product Owner"
+    name: "Sudhir PPP - Product Owner"
     email: "pelias@eazybank.com"
   onCallSupport:
     - (723) 656-8709
